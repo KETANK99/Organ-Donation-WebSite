@@ -1,0 +1,6 @@
+package organDonor;
+
+public interface path {
+public static String profilePathtemp="E://organdonate//organDonateManagementSystem//src//main//webapp//user//assets//images//Users//tempprofilePic//";
+public static String profilePath="E://organdonate//organDonateManagementSystem//src//main//webapp//user//assets//images//Users//profilePic//";
+}
